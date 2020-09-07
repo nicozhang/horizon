@@ -4546,7 +4546,7 @@ msgid ""
 "by a recipient project. This is equivalent to the <tt>openstack volume "
 "transfer create</tt> command."
 msgstr ""
-"卷的拥有权可以从一个项目转给另外一个。一旦在原拥有者的项目中创建了一次装换操"
+"卷的拥有权可以从一个项目转给另外一个。一旦在原拥有者的项目中创建了一次转换操"
 "作，则接收者项目中可以“同意”。等同于使用这个命令：<tt>openstack volume "
 "transfer create</tt>。"
 
